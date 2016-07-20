@@ -167,6 +167,7 @@ jQuery(document).ready(function() {
     }
 
     // clipboard
+    /*
     var clipInit = false;
     $('code').each(function() {
         var code = $(this),
@@ -204,7 +205,7 @@ jQuery(document).ready(function() {
                 $(this).attr('aria-label', null).removeClass('tooltipped tooltipped-s tooltipped-w');
             });
         }
-    });
+    });*/
 
     // allow keyboard control for prev/next links
     jQuery(function() {
